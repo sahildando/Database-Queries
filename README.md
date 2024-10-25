@@ -13,4 +13,11 @@
 | [0595-big-countries](https://github.com/sahildando/Database-Queries/tree/master/0595-big-countries) |
 | [0596-classes-more-than-5-students](https://github.com/sahildando/Database-Queries/tree/master/0596-classes-more-than-5-students) |
 | [1179-game-play-analysis-i](https://github.com/sahildando/Database-Queries/tree/master/1179-game-play-analysis-i) |
+
+
+
+
+
+
+
 | [Hackerrank Revising the Select Query I](https://www.hackerrank.com/challenges/revising-the-select-query/problem/) |
