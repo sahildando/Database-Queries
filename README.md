@@ -20,6 +20,7 @@
 | [1153-product-sales-analysis-i](https://github.com/sahildando/Database-Queries/tree/master/1153-product-sales-analysis-i) |
 | [1161-project-employees-i](https://github.com/sahildando/Database-Queries/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/sahildando/Database-Queries/tree/master/1179-game-play-analysis-i) |
+| [1877-find-followers-count](https://github.com/sahildando/Database-Queries/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/sahildando/Database-Queries/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/sahildando/Database-Queries/tree/master/1892-find-total-time-spent-by-each-employee) |
 | [1908-recyclable-and-low-fat-products](https://github.com/sahildando/Database-Queries/tree/master/1908-recyclable-and-low-fat-products) |
