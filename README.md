@@ -21,6 +21,7 @@
 | [1161-project-employees-i](https://github.com/sahildando/Database-Queries/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/sahildando/Database-Queries/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/sahildando/Database-Queries/tree/master/1258-article-views-i) |
+| [1837-daily-leads-and-partners](https://github.com/sahildando/Database-Queries/tree/master/1837-daily-leads-and-partners) |
 | [1877-find-followers-count](https://github.com/sahildando/Database-Queries/tree/master/1877-find-followers-count) |
 | [1882-the-number-of-employees-which-report-to-each-employee](https://github.com/sahildando/Database-Queries/tree/master/1882-the-number-of-employees-which-report-to-each-employee) |
 | [1892-find-total-time-spent-by-each-employee](https://github.com/sahildando/Database-Queries/tree/master/1892-find-total-time-spent-by-each-employee) |
