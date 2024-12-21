@@ -21,6 +21,7 @@
 | [1161-project-employees-i](https://github.com/sahildando/Database-Queries/tree/master/1161-project-employees-i) |
 | [1179-game-play-analysis-i](https://github.com/sahildando/Database-Queries/tree/master/1179-game-play-analysis-i) |
 | [1258-article-views-i](https://github.com/sahildando/Database-Queries/tree/master/1258-article-views-i) |
+| [1664-find-users-with-valid-e-mails](https://github.com/sahildando/Database-Queries/tree/master/1664-find-users-with-valid-e-mails) |
 | [1670-patients-with-a-condition](https://github.com/sahildando/Database-Queries/tree/master/1670-patients-with-a-condition) |
 | [1724-customer-who-visited-but-did-not-make-any-transactions](https://github.com/sahildando/Database-Queries/tree/master/1724-customer-who-visited-but-did-not-make-any-transactions) |
 | [1734-bank-account-summary-ii](https://github.com/sahildando/Database-Queries/tree/master/1734-bank-account-summary-ii) |
