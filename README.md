@@ -22,6 +22,7 @@
 | [1179-game-play-analysis-i](https://github.com/sahildando/Database-Queries/tree/master/1179-game-play-analysis-i) |
 | [1245-user-activity-for-the-past-30-days-i](https://github.com/sahildando/Database-Queries/tree/master/1245-user-activity-for-the-past-30-days-i) |
 | [1258-article-views-i](https://github.com/sahildando/Database-Queries/tree/master/1258-article-views-i) |
+| [1301-reformat-department-table](https://github.com/sahildando/Database-Queries/tree/master/1301-reformat-department-table) |
 | [1390-average-selling-price](https://github.com/sahildando/Database-Queries/tree/master/1390-average-selling-price) |
 | [1415-students-and-examinations](https://github.com/sahildando/Database-Queries/tree/master/1415-students-and-examinations) |
 | [1462-list-the-products-ordered-in-a-period](https://github.com/sahildando/Database-Queries/tree/master/1462-list-the-products-ordered-in-a-period) |
