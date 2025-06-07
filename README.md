@@ -52,6 +52,7 @@
 | [2110-employees-with-missing-information](https://github.com/sahildando/Database-Queries/tree/master/2110-employees-with-missing-information) |
 | [2127-employees-whose-manager-left-the-company](https://github.com/sahildando/Database-Queries/tree/master/2127-employees-whose-manager-left-the-company) |
 | [2495-number-of-unique-subjects-taught-by-each-teacher](https://github.com/sahildando/Database-Queries/tree/master/2495-number-of-unique-subjects-taught-by-each-teacher) |
+| [3782-find-valid-emails](https://github.com/sahildando/Database-Queries/tree/master/3782-find-valid-emails) |
 <!---LeetCode Topics End-->etCode Topics Start-->
 # LeetCode Topics
 ## Database
